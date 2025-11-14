@@ -21,10 +21,7 @@ Privacy Policy Analyzer is a project designed to analyze the content of privacy 
 - NLP: spaCy, Transformers, Sentiment Analysis
 - Tools: Git, VS Code, GitHub
 
-##  Installation
-
-```bash
-git clone https://github.com/bayanmkadri/privacy-policy-analyzer.git
-cd privacy-policy-analyzer
-npm install
-npm start
+## Future Plans
+- Support for uploading and analyzing PDF files
+- Enhanced classification using deep learning models
+- Admin dashboard for managing analysis results
